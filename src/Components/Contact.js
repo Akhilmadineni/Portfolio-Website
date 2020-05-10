@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Contact extends Component {
+class Contact extends Component {   
   render() {
 
     if(this.props.data){
@@ -36,7 +36,7 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form action="" method="POST" id="contactForm" name="contactForm" >
 					<fieldset>
 
                   <div>
@@ -67,7 +67,7 @@ class Contact extends Component {
                   </div>
 					</fieldset>
 				   </form>
-
+               
            <div id="message-warning"> Error boy</div>
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
@@ -114,5 +114,4 @@ class Contact extends Component {
     );
   }
 }
-
 export default Contact;
