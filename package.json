@@ -30,12 +30,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akhilmadineni/Portfolio-Website.git"
+    "url": "git+https://github.com/Akhilmadineni/portfolio-website.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Akhilmadineni/Portfolio-Website/issues"
+    "url": "https://github.com/Akhilmadineni/portfolio-website/issues"
   }
 }
