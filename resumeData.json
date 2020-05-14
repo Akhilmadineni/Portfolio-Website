@@ -17,40 +17,17 @@
     "website": "",
     "resumedownload": "",
     "social": [
-      {
-        "name": "facebook",
-        "url": "",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "google-plus",
-        "url": "http://googleplus.com/tbakerx",
-        "className": "fa fa-google-plus"
-      },
+      
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
         "className": "fa fa-linkedin"
       },
-      {
-        "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
-        "className": "fa fa-instagram"
-      },
+      
       {
         "name": "github",
-        "url": "http://github.com/tbakerx",
+        "url": "https://github.com/Akhilmadineni",
         "className": "fa fa-github"
-      },
-      {
-        "name": "skype",
-        "url": "http://skype.com",
-        "className": "fa fa-skype"
       }
     ]
   },
@@ -92,44 +69,59 @@
         "company": "Portfolio Website",
         "title": "",
         "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "w.",
+        "name": "github",
+        "url": "https://github.com/Akhilmadineni",
+        "className": "fa fa-github"
       },
       {
         "company": "LANL Earthquake Prediction",
         "title": "",
         "years": "March 2019- May 2019",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
+        "description": "w.",
+        "name": "github",
+        "url": "https://github.com/Akhilmadineni",
+        "className": "fa fa-github" },
       {
         "company": "Security Incidents and Data Breaches Dash Board",
         "title": "",
         "years": "March 2019-April 2019",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
+        "description": "w.",
+        "name": "github",
+        "url": "https://github.com/Akhilmadineni",
+        "className": "fa fa-github" },
       {
         "company": "Network Intrusion Detection",
         "title": "",
         "years": "March 2019",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
+        "description": "w.",
+        "name": "github",
+        "url": "https://github.com/Akhilmadineni",
+        "className": "fa fa-github" },
       {
         "company": "Crypto Currency Visualization",
         "title": "",
         "years": "March 2019",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
+        "description": "w.",
+        "name": "github",
+        "url": "https://github.com/Akhilmadineni",
+        "className": "fa fa-github" },
       {
         "company": "Stock Price Prediction",
         "title": "",
         "years": "February 2019",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
+        "description": "w.",
+        "name": "github",
+        "url": "https://github.com/Akhilmadineni",
+        "className": "fa fa-github" },
       {
         "company": "Chat Room Application",
         "title": "",
         "years": "January 2019",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
+        "description": "w.",
+        "name": "github",
+        "url": "https://github.com/Akhilmadineni",
+        "className": "fa fa-github" }
     ],
     "skills": [
       {
