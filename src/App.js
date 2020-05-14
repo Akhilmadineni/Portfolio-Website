@@ -7,6 +7,7 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
+
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 
@@ -22,7 +23,7 @@ class App extends Component {
   	  message: ''
     };
 
-    ReactGA.initialize('UA-110570651-1');
+    ReactGA.initialize('UA-166773390-1');
     ReactGA.pageview(window.location.pathname);
 
   }

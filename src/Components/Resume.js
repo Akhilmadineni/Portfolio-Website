@@ -17,7 +17,7 @@ class Resume extends Component {
         </div>
       })
       var projects = this.props.data.Projects.map(function(projects){
-        return <div key={projects.company}><h3>{projects.company}</h3>
+      return <div key={projects.company}><h3>{projects.company}&nbsp;<p className="fa fa-github"></p></h3>
             <p className="info">{projects.title}<span>&bull;</span> <em className="date">{projects.years}</em></p>
             <p>{projects.description}</p> 
         </div>
