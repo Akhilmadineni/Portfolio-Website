@@ -12,7 +12,10 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.7.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "react-typewriter-hook": "^1.0.1",
+    "react-typing-effect": "^2.0.3",
+    "react-typist": "^2.0.5"
   },
   "scripts": {
     "predeploy": "npm run build",
