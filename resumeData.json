@@ -1,10 +1,10 @@
 {
   "main": {
-    "name": "Akhil Madineni",
+    "name": "<akhil madineni/>",
     "occupation": "Computer Science Student",
     "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image": "profilepic.png",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "COmputer Science Student in the Sacramento area, specializing in Machine Learning and the NERDS stack (Node.js, Express, React, and Database using SQL).I love clean code, learning new things, strong engineering culture, and even stronger coffee.Feel free to check out some of my recent projects and reach out if you'd like to grab a cup sometime!",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "akhilmadineni@outlook.com",
     "phone": "916-345-6784",
@@ -38,13 +38,13 @@
         "school": "California State University-Sacramento",
         "degree": "Masters in Computer Science",
         "graduated": "present",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "Related coursework: Data Visualization, Artificial Intelligence, Machine Learning, , Data Structures, UNIX Programming in C, Computer Forensics, Data Models for Database Management Systems, Computer Systems Architecture, Algorithms and Paradigms"
       },
       {
         "school": "GITAM University-Visakapatnam",
         "degree": "Bachelors in Computer Science",
         "graduated": "May 2017",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "Related coursework: Data Mining, Artificial Intelligence, Cloud Computing."
       }
     ],
     "work": [
@@ -68,8 +68,8 @@
       {
         "company": "Portfolio Website",
         "title": "",
-        "years": "March 2007 - February 2010",
-        "description": "w.",
+        "years": "April 2020",
+        "description": "Built a website to showcase my resume.",
         "name": "github",
         "url": "https://github.com/Akhilmadineni",
         "className": "fa fa-github"
@@ -78,7 +78,7 @@
         "company": "LANL Earthquake Prediction",
         "title": "",
         "years": "March 2019- May 2019",
-        "description": "w.",
+        "description": "Developed a machine learning model to help predicting the time remaining for laboratory earthquake Mean Absolute Error 2.51848 Kaggle Rank: 381 Methodology used: Random Forests.",
         "name": "github",
         "url": "https://github.com/Akhilmadineni",
         "className": "fa fa-github" },
@@ -86,7 +86,7 @@
         "company": "Security Incidents and Data Breaches Dash Board",
         "title": "",
         "years": "March 2019-April 2019",
-        "description": "w.",
+        "description": "An Interactive visualization dashboard featuring occurrences of security incidents, industry level analysis, types of attacks, the assets being targeted over a period of time and the data trends changes in  all these features.Implemented interactive feature like data slider, hover over feature, brush and used IntroJs for giving a quick demo about the website.",
         "name": "github",
         "url": "https://github.com/Akhilmadineni",
         "className": "fa fa-github" },
@@ -94,7 +94,7 @@
         "company": "Network Intrusion Detection",
         "title": "",
         "years": "March 2019",
-        "description": "w.",
+        "description": "Developed a machine learning model to help the system detect the type of the server request viz. normal, intrusion, Neptune, back etc. and bypass them.Approaches of Binary Classification to multi-label classification were applied on the data to achieve better results. Applied KNN, SVM, Dense Neural Network, CNN.F1- Score Achieved: 96%.",
         "name": "github",
         "url": "https://github.com/Akhilmadineni",
         "className": "fa fa-github" },
@@ -102,7 +102,7 @@
         "company": "Crypto Currency Visualization",
         "title": "",
         "years": "March 2019",
-        "description": "w.",
+        "description": "This project is part of my data visualization course in which crypto currency data is visualized using line charts.Successfully implemented interactive features like data slider, hover over feature.Live Cryptocurrency data is used in this project with the help of crypto compare API.",
         "name": "github",
         "url": "https://github.com/Akhilmadineni",
         "className": "fa fa-github" },
@@ -110,7 +110,7 @@
         "company": "Stock Price Prediction",
         "title": "",
         "years": "February 2019",
-        "description": "w.",
+        "description": "Developed a machine learning model to predict the stock prices of 8th day or 64th day using 7-Day window to 63-Day window of the time-series data.RMSE score: 1.72.Methodologies used: Dense neural Network, Long Short-Term Memory(LSTM), CNN(each attribute as a channel",
         "name": "github",
         "url": "https://github.com/Akhilmadineni",
         "className": "fa fa-github" },
@@ -118,7 +118,7 @@
         "company": "Chat Room Application",
         "title": "",
         "years": "January 2019",
-        "description": "w.",
+        "description": "Built a web application which creates private chatroom for people to chat.Deployed this application to Heroku.And the source code to GitHub.Implemented a feature to get login/ logout details of each user using Socket.IO( A JavaScript library).",
         "name": "github",
         "url": "https://github.com/Akhilmadineni",
         "className": "fa fa-github" }
@@ -126,39 +126,31 @@
     "skills": [
       {
         "name": "Java",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "python",
-        "level": "60%"
+        "level": "75%"
       },
       {
         "name": "JavaScript",
-        "level": "60%"
-      },
-      {
-        "name": "HTML",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "CSS",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "SQL",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Machine Learning Algorithms",
-        "level": "55%"
+        "level": "75%"
       },
       {
         "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
+        "level": "70%"
       },
       {
         "name": "HTML5",
@@ -166,7 +158,7 @@
       },
       {
         "name": "D3.Js",
-        "level": "50%"
+        "level": "70%"
       },
       {
         "name": "MongoDB",

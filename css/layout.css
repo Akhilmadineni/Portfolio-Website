@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #ebebeb  no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -58,15 +58,17 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
-   color: #fff;
+   display: block;
+   font: 90px/1.1em 'monospace', monospace;
+   color: rgb(0, 0, 0);
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
    text-shadow: 0px 1px 3px rgba(0, 0, 0, .8);
 }
 header .banner-text h3 {
-   font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   font: 50px/1.1em 'monospace', monospace;
+   -webkit-font-smoothing: antialiased;
+   color: #333;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
@@ -94,8 +96,8 @@ header .social li {
    margin: 0 15px;
    padding: 0;
 }
-header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a { color: #333; }
+header .social li a:hover { color: rgb(189, 0, 0) }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -103,13 +105,13 @@ header .scrolldown a {
    bottom: 30px;
    left: 50%;
    margin-left: -29px;
-   color: #fff;
+   color: #333;
    display: block;
    height: 42px;
    width: 42px;
    font-size: 42px;
    line-height: 42px;
-   color: #fff;
+   color: #333;
    border-radius: 100%;
 
    -webkit-transition: all .3s ease-in-out;
@@ -117,7 +119,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: rgb(189, 0, 0); }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -140,7 +142,7 @@ header .scrolldown a:hover { color: #11ABB0; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: rgb(224, 216, 216); }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
@@ -169,7 +171,7 @@ ul#nav li a {
    line-height: 32px;
 	text-decoration: none;
    text-align: left;
-   color: #fff;
+   color: #333;
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
@@ -187,9 +189,10 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: rgb(221, 214, 214);
+  
    padding-top: 96px;
-   padding-bottom: 66px;
+   padding-bottom: 60px;
    overflow: hidden;
 }
 
@@ -207,7 +210,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
+   width: 100px;
    height: 120px;
    border-radius: 100%;
 }
@@ -236,7 +239,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #resume {
-   background: #fff;
+   background: rgb(225, 240, 255);
    padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
@@ -261,10 +264,16 @@ ul#nav li.current a { color: #F06000; }
 #resume .header-col { padding-top: 9px; }
 #resume .main-col { padding-right: 10%; }
 
-.education, .work {
+.education  {
    margin-bottom: 48px;
    padding-bottom: 24px;
-   border-bottom: 1px solid #E8E8E8;
+   border-bottom: 1px solid #444;
+}
+.work{
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #444;
+   
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
