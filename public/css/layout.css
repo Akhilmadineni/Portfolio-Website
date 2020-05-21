@@ -207,6 +207,7 @@ ul#nav li.current a { color: #F06000; }
 #about p {
    line-height: 30px;
    color: #7A7A7A;
+   margin-bottom: 10px;
 }
 #about .profile-pic {
    position: relative;
@@ -231,6 +232,11 @@ ul#nav li.current a { color: #F06000; }
 #about .download .button i {
    margin-right: 15px;
    font-size: 20px;
+}
+#about .bio {
+   margin: auto;
+   max-width: 70%;
+   text-align: center;
 }
 
 

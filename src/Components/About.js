@@ -24,13 +24,18 @@ class About extends Component {
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
+          <div className="">
+            <p>Full stack software engineer in the greater Boston area, specializing in JavaScript and the NERDS stack (Node.js, Express, React, and Database using SQL).</p>
+            <p>I love clean code, learning new things, strong engineering culture, and even stronger coffee.</p>
+            <p>Feel free to check out some of my recent projects and reach out if you'd like to grab a cup sometime!</p>
 
-            <p>{bio}</p>
+          </div>
+            
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
+						   <span>Akhil Madineni</span><br />
 						   <span>{street}<br />
 						         {city} {state}, {zip}
                    </span><br />
