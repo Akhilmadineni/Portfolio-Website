@@ -37,7 +37,7 @@ class Header extends Component {
             <Typist>
             <span> Computer Science Master's Student</span>
             <Typist.Backspace count={40} delay={50} />
-            <span> <a class="anchorUnderline" href="mailto:akhilmadineni@outlook.com">are you in Bay Area? let's get coffee!</a> </span>
+            <span> <a className="anchorUnderline" href="mailto:akhilmadineni@outlook.com">are you in Bay Area? let's get coffee!</a> </span>
             <Typist.Backspace count={70} delay={50} />
             <span>can play any instrument,         </span>
             <Typist.Backspace count={8} delay={100} />

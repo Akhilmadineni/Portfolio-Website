@@ -20,7 +20,7 @@
       
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/akhil-madineni-7a39ab155/",
         "className": "fa fa-linkedin"
       },
       
@@ -32,7 +32,6 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
         "school": "California State University-Sacramento",
